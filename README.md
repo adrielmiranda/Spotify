@@ -1,9 +1,10 @@
 * SOBRE O PROJETO
-* 
- Projeto feito do spotify.
+  
+Projeto feito do spotify.
 
 
-*TECNOLOGIAS UTILIZADAS
+* TECNOLOGIAS UTILIZADAS
+  
 
 -HTML5
 -CSS3
