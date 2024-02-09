@@ -1,0 +1,7 @@
+@media screen and (max-width: 1015px) { /*@media serve para definir o que eu quero que acontece em determinada resoluçã, por exemplo, na resolução de 1015px vai aparecer só 2grid*/
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    
+}
